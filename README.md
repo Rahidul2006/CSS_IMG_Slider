@@ -1,2 +1,4 @@
 # CSS_IMG_Slider
-Creat ims slider animation using css
+Creating an Nimated webside using HTML & CSS 
+#Webpage link 
+https://only-css-slider.netlify.app/
